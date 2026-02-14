@@ -1,0 +1,93 @@
+Python Interview Problems List
+==============================
+
+== BASIC (Freshers/Entry Level) ==
+
+-- Strings --
+1. Reverse a string
+2. Check if string is palindrome
+3. Count vowels and consonants
+4. Find duplicate characters in a string
+5. Check if two strings are anagrams
+6. Remove duplicates from a string
+7. Find first non-repeating character
+
+-- Numbers --
+8. Check if number is prime
+9. Fibonacci series (nth term / first n terms)
+10. Factorial of a number
+11. Check if number is Armstrong number
+12. Swap two numbers without temp variable
+13. Find GCD/LCM of two numbers
+14. Reverse a number
+
+-- Lists/Arrays --
+15. Find largest/smallest element in list
+16. Find second largest element
+17. Remove duplicates from list
+18. Merge two sorted lists
+19. Find common elements in two lists
+20. Rotate a list by k positions
+
+
+== INTERMEDIATE ==
+
+-- Lists/Arrays --
+21. Two Sum problem (find pair with given sum)
+22. Find missing number in array (1 to n)
+23. Move all zeros to end
+24. Find majority element
+25. Kadane's algorithm (max subarray sum)
+26. Find duplicate in array
+
+-- Strings --
+27. Longest substring without repeating characters
+28. String compression ("aaabb" -> "a3b2")
+29. Valid parentheses check
+30. Longest palindromic substring
+
+-- Dictionary/Hashing --
+31. Word frequency counter
+32. Group anagrams together
+33. Find first unique character
+34. Two Sum using hashmap
+
+-- Searching/Sorting --
+35. Binary search implementation
+36. Bubble/Selection/Insertion sort
+37. Quick sort / Merge sort
+38. Find peak element
+
+
+== ADVANCED (Experienced) ==
+
+-- Recursion & Dynamic Programming --
+39. Climbing stairs problem
+40. Coin change problem
+41. Longest common subsequence
+42. 0/1 Knapsack problem
+43. Edit distance
+
+-- Data Structures --
+44. Implement Stack using list
+45. Implement Queue using list
+46. Linked list operations (reverse, detect cycle)
+47. Binary tree traversals (inorder, preorder, postorder)
+48. BFS/DFS implementation
+
+-- OOP & Design --
+49. Design LRU Cache
+50. Singleton pattern implementation
+51. Factory pattern
+52. Design a parking lot system
+
+
+== PYTHON SPECIFIC QUESTIONS ==
+53. List vs Tuple differences
+54. Deep copy vs Shallow copy
+55. *args and **kwargs
+56. Decorators implementation
+57. Generators and yield
+58. List comprehension examples
+59. Lambda functions
+60. __init__ vs __new__
