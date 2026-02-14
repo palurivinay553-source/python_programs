@@ -9,3 +9,5 @@ def reverse_string(s):
 
 v = "vinay"
 reverse_string(v)
+
+print(v[::-1])
